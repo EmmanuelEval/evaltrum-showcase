@@ -88,4 +88,15 @@ https://evaltrum.com
 
 ---
 
+## 🌍 Learn More
+
+🔗 **Website:** https://evaltrum.com
+
+🚀 **Market Intelligence:** https://evaltrum.com/intelligence-marche
+
+📧 **Contact:** contact@evaltrum.com
+
+⭐ If you like Evaltrum, don't forget to **star this repository**!
+---
+
 > **Evaltrum combines AI, real-world market data, and professional business planning into a single platform designed for entrepreneurs, startups, consultants, and small businesses.**
