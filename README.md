@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="Evaltrum Banner">
+</p>
+
+
 # 🚀 Evaltrum
 
 Build professional business plans and market research reports in minutes with AI.
