@@ -90,7 +90,7 @@ https://evaltrum.com
 
 ## 🌍 Learn More
 
-🔗 **Website:** https://evaltrum.com
+🔗 **Website:** https://evaltrum.com/en
 
 🚀 **Market Intelligence:** https://evaltrum.com/intelligence-marche
 
