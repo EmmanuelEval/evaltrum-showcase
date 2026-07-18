@@ -24,23 +24,6 @@
   </a>
 </p>
 
-## 📸 Product Preview
-
-### Dashboard
-
-![Dashboard](DASHBOARD.png)
-
----
-
-### Market Intelligence
-
-![Market Intelligence](intelligence.png)
-
----
-
-### Business Plan Generator
-
-![Business Plan](business-plan.png)
 # 🚀 Evaltrum
 
 Build professional business plans and market research reports in minutes with AI.
