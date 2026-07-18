@@ -13,6 +13,16 @@
 ![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge)
 
 </p>
+
+<p align="center">
+  <a href="https://evaltrum.com">
+    <img src="https://img.shields.io/badge/🌐_Website-Evaltrum-00A86B?style=for-the-badge">
+  </a>
+
+  <a href="https://evaltrum.com/intelligence-marche">
+    <img src="https://img.shields.io/badge/🚀_Market_Intelligence-Try_Now-0F172A?style=for-the-badge">
+  </a>
+</p>
 # 🚀 Evaltrum
 
 Build professional business plans and market research reports in minutes with AI.
