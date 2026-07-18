@@ -23,23 +23,7 @@
     <img src="https://img.shields.io/badge/🚀_Market_Intelligence-Try_Now-0F172A?style=for-the-badge">
   </a>
 </p>
-## 📸 Product Preview
 
-### Dashboard
-
-![Dashboard](dashboard.png)
-
----
-
-### Market Intelligence
-
-![Market Intelligence](intelligence.png)
-
----
-
-### Business Plan Generator
-
-![Business Plan](business-plan.png)
 # 🚀 Evaltrum
 
 Build professional business plans and market research reports in minutes with AI.
