@@ -2,7 +2,17 @@
   <img src="banner.png" alt="Evaltrum Banner">
 </p>
 
+<p align="center">
 
+![AI](https://img.shields.io/badge/AI-Powered-00A86B?style=for-the-badge)
+
+![Business Plan](https://img.shields.io/badge/Business-Planning-0F172A?style=for-the-badge)
+
+![Market Research](https://img.shields.io/badge/Market-Research-22C55E?style=for-the-badge)
+
+![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge)
+
+</p>
 # 🚀 Evaltrum
 
 Build professional business plans and market research reports in minutes with AI.
