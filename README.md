@@ -41,6 +41,7 @@
 
 ![Business Plan](./business-plan.png)
 # 🚀 Evaltrum
+The AI platform that transforms business ideas into investor-ready business plans, real-data market research, and strategic insights in minutes.
 
 Build professional business plans and market research reports in minutes with AI.
 
